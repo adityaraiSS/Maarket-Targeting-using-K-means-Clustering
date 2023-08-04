@@ -1,1 +1,1 @@
-# Maarket-Targeting-using-K-means-Clustering
+# Market-Targeting-using-K-means-Clustering
